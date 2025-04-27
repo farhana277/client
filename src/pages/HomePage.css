@@ -1,0 +1,38 @@
+.home {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .banner {
+    background: linear-gradient(rgba(94, 95, 96, 0.5), rgba(84, 93, 96, 0.5));
+    color: white;
+    padding: 100px 20px;
+  }
+  
+  .btn {
+    display: inline-block;
+    margin-top: 15px;
+    padding: 10px 20px;
+    background-color: #3d62d4;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  
+  .upcoming-events, .categories {
+    margin-top: 50px;
+  }
+  
+  .events-grid, .categories-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+    margin-top: 20px;
+  }
+  
+  .event-card, .category-card {
+    background: #f4f4f4;
+    padding: 20px;
+    border-radius: 8px;
+  }
+  
