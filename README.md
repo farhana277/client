@@ -14,7 +14,7 @@ The frontend of the application is built using **React** and is deployed on **Ve
 The backend of the application is built using **Node.js** and **Express**. It handles event data and connects to a **MongoDB** database.
 
 - **Backend Repo**: [Server Repo](https://github.com/farhana277/server)
-- **Backend Deployment Link**: [Vercel Backend]()  
+- **Backend Deployment Link**: [Vercel Backend](https://server-hyzrf4ehk-farhanas-projects-bdd34aa6.vercel.app/)  
 
 ## How to Run Locally
 
